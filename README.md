@@ -1,4 +1,4 @@
-#📚Kids Story Pipeline
+📚Kids Story Pipeline
 Overview
 This repository implements a modular pipeline for creating impactful children's stories using three specialized agents:
 
